@@ -1,0 +1,25 @@
+WHAT TO EXPECT?
+.What is MVC?
+.DbContext file
+.CRUD data using EFCore
+.Services(Generic services)
+.ViewComponents
+.Authetication and Authorization
+.PayPal SDK for online payments
+.Dependency Injection
+.Model binding
+.Model validation
+.Tag helpers
+.etc
+
+
+MODEL
+Models are as well as called tables that are been created
+.C# class 
+.Data blueprint
+.Data relations
+.Ex: producer, Movie, Actor
+
+VIEW
+This is what the user gets to see
+.User
